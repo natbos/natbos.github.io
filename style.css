@@ -63,7 +63,7 @@ font-size:calc(8px + 1.5vw); /*use minimum to calculate font size*/
   height:10%;
   background-color:#CFCFC4;
   padding-bottom:25%;
-  
+  overflow: hidden;
   border-radius: 10% 10% 0px 0px;
 }
 
