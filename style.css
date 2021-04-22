@@ -49,8 +49,8 @@ font-size:calc(8px + 1.5vw); /*use minimum to calculate font size*/
 
 .DirectionsVideos{
   float:center;
-  width: 47vw;
-  height: 27vw;
+  width: 32vw;
+  height: 18vw;
   border:1px;
 }
 
